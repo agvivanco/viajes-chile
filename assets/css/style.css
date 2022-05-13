@@ -1,0 +1,131 @@
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+/*Sección 1: Navbar*/
+
+.navbar {
+    text-align: left;
+}
+.nav-black {
+    background-color: black;
+    color: white;
+}
+
+.dark-celu .container {
+    background-color: transparent;
+}
+  
+@media only screen and (max-width: 991px) {
+
+    .dark-celu {
+        background-color: black;
+    }  
+    
+}
+  
+  
+
+/*Sección 3: Quienes Somos*/
+
+.Quienes-Somos {
+    text-align: center;
+    padding: 40px;
+}
+
+/*Sección 3: iconos*/
+.row {
+    padding: 40px;
+}
+.titulo-cards {
+    text-align: center;
+}
+
+/*icono avion*/
+.avion {
+    background-color: #0dcaf0;
+    text-align: center;
+}
+
+.avion p {
+    background-color: #000;
+    text-align: left;
+}
+
+/*icono montaña*/
+.montana {
+    background-color: #0dcaf0;
+    text-align: center;  
+}
+
+.montana p {
+    background-color: #000;
+    text-align: left;
+}
+
+/*icono ubicacion*/
+.ubicacion {
+    background-color: #0dcaf0;
+    text-align: center;
+}
+.ubicacion p {
+    background-color: #000;
+    text-align: left;
+}
+
+
+/*Sección 4: Cards-Destacados*/
+
+.titulo-cards {
+    padding-top: 50px;
+}
+.card-1 {
+    background-color: #0dcaf0;
+    border-style: solid;
+}
+.card-2 {
+    background-color: #0dcaf0;
+    border-style: solid;
+}
+.card-3 {
+    background-color: #0dcaf0;
+    border-style: solid;
+}
+.card-4 {
+    background-color: #0dcaf0;
+    border-style: solid;
+}
+
+
+/*Sección 5: Formulario*/
+
+#Contacto {
+    text-align: center;
+}
+.Nombre {
+    text-align: left;
+}
+.Asunto {
+    text-align: left;
+}
+.Mensaje {
+    text-align: left;
+}
+
+
+/*Footer*/
+
+footer {
+    background-color: #0dcaf0;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+.ViajesChile {
+    padding-left: 70px;
+}
+
+
+
